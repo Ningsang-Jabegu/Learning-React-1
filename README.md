@@ -1,6 +1,7 @@
 # React Project 1 Documentation
 
-![Project Screenshots](https://github.com/Ningsang-Jabegu/Learning-React-1/blob/main/Screenshot%20without%20hover.png)
+<img src="https://github.com/Ningsang-Jabegu/Learning-React-1/blob/main/Screenshot%20without%20hover.png" alt="Project Screenshots" height="400">
+
 
 ## Overview
 
@@ -55,14 +56,15 @@ The project was initiated using the following steps:
       git remote add origin https://github.com/{username}/{repository-name}.git
       git push -u origin main
    ```
-   With this your command your project is linked with your github repo. This will only create the README.md file in your github repo and also in the local file (that is in your computer).
-   To upload all the file now you need to add following command in terminal
+   + With this your command your project is linked with your github repo. This will only create the README.md file in your github repo and also in the local file (that is in your computer).
+   + To upload all the file now you need to add following command in terminal
    ```terminal
       git add .
       git commit -m "uploading my project file"
       git push
    ```
-   After this your project files will be upload into your github repo. and every time you want to changes the file in your system, you can only use the 3 line (above second code) code to push your updated file. Add something that describes your change in the second line of the code inside the "...".
+
+   + After this your project files will be upload into your github repo. and every time you want to changes the file in your system, you can only use the 3 line (above second code) code to push your updated file. Add something that describes your change in the second line of the code inside the "...".
    
 4.  **Usage**: The project is designed to illustrate the core concepts of React, making it an excellent resource for React beginners. By exploring the project's source code, learners can gain insights into:
 
