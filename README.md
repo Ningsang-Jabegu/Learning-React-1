@@ -25,13 +25,31 @@ The project was initiated using the following steps:
 2. **Folder Structure**: The project adheres to a specific folder structure for organization and maintainability.
    ```terminal
    ├── build
-      ├── static
+       ├── static
          ├── js
-            ├── asset-manifest.json
-            ├── index.css
-            ├── index.html
-            ├── manifest.json
-            ├── robots.txt
+            ├── main.3284944c.js
+            ├── main.3284944.js.LICENCE.txt
+            ├── main.3284944c.js.map
+         ├── asset-manifest.json
+         ├── index.css
+         ├── index.html
+         ├── manifest.json
+         ├── robots.txt
    ├── public
+      ├── index.css
+      ├── index.html
+      ├── manifest.json
+      ├── robots.txt
    └── src
+      ├── .gitignore
+      ├── README.md
+      ├── package-lock.json
+      ├── package.json
+3. **Usage**: The project is designed to illustrate the core concepts of React, making it an excellent resource for React beginners. By exploring the project's source code, learners can gain insights into:
 
+   - familiarize with the jsx syntax
+   - Deployment of React applications
+4. **Contributing**: This project is intended as a learning exercise and is not actively seeking contributions. However, suggestions and feedback are always welcome.
+5. **License**: This project is licensed under the MIT License.
+
+**Disclaimer**: This project was created solely for educational purposes, and the actual code may have limited functionality or features. It is not intended for production use.
