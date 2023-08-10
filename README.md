@@ -13,7 +13,7 @@ This documentation provides an insight into **React Project 1**, a simple projec
 
 ## Deployment
 
-The actual code that is ready for deployment can be found in the `build` folder of the project. To access the live version of the project, visit [https://react-project-1-by-ningsang-jabegu.netlify.app](https://react-project-1-by-ningsang-jabegu.netlify.app). This live version offers an opportunity to interact with the application.
+The actual code that is ready for deployment can be found in the `build` folder of the project. To access the live version of the project, visit (<a href="https://react-project-1-by-ningsang-jabegu.netlify.app](https://react-project-1-by-ningsang-jabegu.netlify.app" target="_blank">https://react-project-1-by-ningsang-jabegu.netlify.app)</a>. This live version offers an opportunity to interact with the application.
 
 ## Project Creation
 
@@ -46,7 +46,7 @@ The project was initiated using the following steps:
       ├── README.md
       ├── package-lock.json
       ├── package.json
-   ```
+   
 3.**Initializing and pushing Git**: For the documentation purposes this project is uploaded into the github
    ```terminal
       git init
