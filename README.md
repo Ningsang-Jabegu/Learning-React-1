@@ -1,6 +1,6 @@
 # React Project 1 Documentation
 
-![Project Logo](insert_image_url_here)
+![Project Logo](https://github.com/Ningsang-Jabegu/Learning-React-1/blob/main/Screenshot%20without%20hover.png)
 
 ## Overview
 
