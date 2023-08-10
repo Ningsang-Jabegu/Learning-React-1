@@ -22,3 +22,16 @@ The project was initiated using the following steps:
 
    ```terminal
    npx create-react-app react-project-1
+2. **Folder Structure**: The project adheres to a specific folder structure for organization and maintainability.
+   ```terminal
+   ├── build
+      ├── static
+         ├── js
+            ├── asset-manifest.json
+            ├── index.css
+            ├── index.html
+            ├── manifest.json
+            ├── robots.txt
+   ├── public
+   └── src
+
